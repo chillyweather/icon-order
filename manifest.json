@@ -1,7 +1,7 @@
 {
   "name": "icon order",
   "id": "1125726757544191591",
-  "api": "0.0.1",
+  "api": "1.0.0",
   "main": "code.js",
   "editorType": [
     "figma"
